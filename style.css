@@ -1,0 +1,46 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FF9F39;
+  font-family: 'Sniglet', cursive;
+}
+
+.heading {
+  position: absolute;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  top: 70px;
+  font-size: 50px;
+  text-align: center;
+}
+
+.contact {
+  padding-top: 170px;
+  text-align: center;
+}
+
+.contact a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #111111;
+}
+
+.info {
+  font-size: 30px;
+  padding-bottom: 30px;
+}
+
+#topo {
+  height: 300px;
+  background-color: #FFC485;
+}
+
+#cupcake {
+  margin: 0 auto;
+  padding-top: 150px;
+  display: block;
+  width: 300px;
+}

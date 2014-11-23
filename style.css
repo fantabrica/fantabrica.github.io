@@ -3,8 +3,22 @@
 }
 
 body {
-  background-color: #FF9F39;
-  font-family: 'Sniglet', cursive;
+  font-family: 'Helvetica', sans-serif;
+}
+
+.menu{
+  padding-top: 10px;
+  display: block;
+  height: 100px;
+}
+
+.logo{
+  padding-left: 100px;
+}
+
+li{
+  padding: 40px;
+  display: inline;
 }
 
 .heading {
@@ -34,8 +48,10 @@ body {
 }
 
 #topo {
-  height: 300px;
+  margin-top: 15px;
+  height: 600px;
   background-color: #FFC485;
+  background-image: url('media/background.jpg');
 }
 
 #cupcake {
